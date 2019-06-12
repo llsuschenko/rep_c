@@ -37,6 +37,7 @@ public class Main {
 
         System.out.println(animal.animal_type);
         animal.sound();
+        //additional comment in order to change current state
     }
 
     static void printTheAnimalType(Animal animal, Date date) {
