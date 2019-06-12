@@ -24,7 +24,7 @@ public class Main {
 
         Animal q = new Animal();
 
-       ////// Animal.a=33;
+       ///////// Animal.a=33;
 
         q.a=22;
 
