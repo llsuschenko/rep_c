@@ -29,6 +29,8 @@ public class Main {
         q.a=22;
 
         System.out.println("q=" + q.a);
+
+        System.out.println("goodNight!");
     }
 
     static void printTheAnimalType(Animal animal) {
